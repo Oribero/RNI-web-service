@@ -1,0 +1,4 @@
+/home/radiogis/Dokumente/webservice/gr-maxfreq/build/docs/doxygen/CMakeFiles/doxygen_target.dir
+/home/radiogis/Dokumente/webservice/gr-maxfreq/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/radiogis/Dokumente/webservice/gr-maxfreq/build/python/CMakeFiles/pygen_python_83867.dir
+/home/radiogis/Dokumente/webservice/gr-maxfreq/build/CMakeFiles/uninstall.dir
